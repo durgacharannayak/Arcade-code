@@ -1,0 +1,23 @@
+****************Implement Load Balancing on Compute Engine: Challenge Lab*********************
+
+Export all the values carefully
+
+***********************update the values as per the lab intructions*****************
+------------------------------------------------
+export INSTANCE_NAME=
+
+export ZONE=
+
+export FIREWALL_NAME=
+------------------------------------------------
+
+***********************NOW JUST COPY THE CODE AND PASTE IN YOUR CLOUD SHELL*****************
+--------------------------------------------------
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Implement%20Load%20Balancing%20on%20Compute%20Engine%20Challenge%20Lab/quicklabgsp313.sh
+sudo chmod +x quicklabgsp313.sh
+./quicklabgsp313.sh
+--------------------------------------------------
+- Wait for 12-15 mins and the code execution will be completed
+- Again, wait for 5 mins and the lab score will be updated so don't worry!
+
+Congratulations!!!!
