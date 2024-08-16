@@ -1,1 +1,12 @@
+Replace your lab excel sheet "Tickets" with "Technocrts.xlsx" present in the Level 2 folder.
 
+Steps to complete the lab:
+1. Create a copy of the App given in Task 1
+2. Go to Google sheets (make sure you are signed in with the correct email ID of the lab)
+-> Go to Home 
+-> Open "Tickets" excel
+-> Download the "Technocrats.xlsx" -> Find it here: Level 2: Machine Learning and AI Skills/Technocrats.xlsx
+-> Click "File" -> Import -> Select "Technocrats.xlsx" -> Replace the existing file
+-> Mark the progress for all tasks
+
+Lab is completed!!!
