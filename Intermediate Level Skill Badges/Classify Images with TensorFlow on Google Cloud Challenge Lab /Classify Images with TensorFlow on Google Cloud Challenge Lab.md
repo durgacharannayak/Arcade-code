@@ -1,4 +1,4 @@
-# Classify Images with TensorFlow on Google Cloud: Challenge Lab | [GSP398](https://www.cloudskillsboost.google/focuses/53698?parent=catalog) |
+# Classify Images with TensorFlow on Google Cloud: Challenge Lab | [GSP398](https://www.cloudskillsboost.google/focuses/53698?parent=catalog)
 
 ### Run the following Commands in CloudShell
 
