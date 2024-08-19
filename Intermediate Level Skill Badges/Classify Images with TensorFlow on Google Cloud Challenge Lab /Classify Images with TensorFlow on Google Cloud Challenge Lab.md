@@ -19,7 +19,7 @@ sudo chmod +x gsp398.sh
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 ```
 
-* Download `Jupyter` file from [here](https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud%20Challenge%20Lab/cnn_challenge_lab.ipynb)
+* Download `Jupyter` file from [here](https://github.com/durgacharannayak/Arcade-code/blob/c34f05d35ff7b75c0f249c07f6896f31eca36f5e/Intermediate%20Level%20Skill%20Badges/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud%20Challenge%20Lab%20/cnn_challenge_lab.ipynb)
 
 ### Lab is completed successfully!!!
 
